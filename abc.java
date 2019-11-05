@@ -8,4 +8,9 @@ class abc
      System.out.println("how are you....");
  
     }
+
+ public void print(String msg)
+  {
+    System.out.println(msg);
+  }
 }
